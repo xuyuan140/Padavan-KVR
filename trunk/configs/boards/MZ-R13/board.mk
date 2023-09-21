@@ -5,4 +5,4 @@
 ##################################################################
 
 CFLAGS += -DBOARD_MZ_R13
-BOARD_NUM_USB_PORTS=0
+BOARD_NUM_USB_PORTS=1
